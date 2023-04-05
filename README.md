@@ -3,3 +3,4 @@ But I am still working on this project and will replace it with a React SPA annd
 annd other projects will be connected.
 
 You cann check out this website at https://anibuddy.netlify.app/
+substitute link: https://kartiksrma.github.io/AniBuddy/
